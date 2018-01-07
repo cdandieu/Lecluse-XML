@@ -4,7 +4,7 @@
 ## Découverte d'un workflow complexe et abouti avec ENS Éditions
 
 
-***Résumé :*** Sophie Lecluse, éditrice chez **ENS Editions**, est venue ce mercredi 13 décembre nous présenter la chaîne de publication mise en place au sein de sa structure éditoriale. Le thème de la séance était donc un thème assez technique, en voici la restitution synthétique.
+***Résumé :*** Sophie Lecluse, éditrice chez **ENS Editions**, est venue ce mercredi 13 décembre nous présenter la chaîne de publication mise en place au sein de sa structure éditoriale. Le thème de la séance était donc assez technique, en voici la restitution synthétique.
 
 ***Mots-clés :*** Publication scientifique ; édition numérique ; XML ; TEI ; chaîne de publication ; édition publique ; standards ; communauté scientifique
 
