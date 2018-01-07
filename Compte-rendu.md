@@ -26,19 +26,19 @@ Par ailleurs, pour augmenter encore la qualité structurelle de l’encodage et 
 
 ### Bref historique de la chaîne
 
-![enter image description here](https://lh3.googleusercontent.com/H2fWtO17amcnBN3DsXkfOuojLJzB8BwEKz_m8oRzKXzOA2-UPE6Dqi8kvDO7E1cs1lxY6mX3-Wes=s0 "schema-historique.png")
+![shéma historique de la chaîne](https://lh3.googleusercontent.com/H2fWtO17amcnBN3DsXkfOuojLJzB8BwEKz_m8oRzKXzOA2-UPE6Dqi8kvDO7E1cs1lxY6mX3-Wes=s0 "schema-historique.png")
 
 La chaîne actuelle se compose actuellement de deux types d'éléments :
-les technologies et standards : ils utilisent l’unicode, le langage XML, [DTD](https://fr.wikipedia.org/wiki/Document_type_definition) (Document Type Definition)-TEI, dont la fonction principale est de structurer les documents.
-les flux : qui vont permettre de lier et générer le passage d’un fichier à un autre et automatiser certaines fonctionnalités dans la production de cette chaîne. Ce sont les scripts et les feuilles de transformation [XSLT](https://fr.wikipedia.org/wiki/Extensible_Stylesheet_Language_Transformations) (eXtensible Stylesheet Language Transformations). Le logiciel XML Editor est par ailleurs utilisé pour générer les différents supports de sortie.
++ les technologies et standards : ils utilisent l’unicode, le langage XML, [DTD](https://fr.wikipedia.org/wiki/Document_type_definition) (Document Type Definition)-TEI, dont la fonction principale est de structurer les documents.
++ les flux : qui vont permettre de lier et générer le passage d’un fichier à un autre et automatiser certaines fonctionnalités dans la production de cette chaîne. Ce sont les scripts et les feuilles de transformation [XSLT](https://fr.wikipedia.org/wiki/Extensible_Stylesheet_Language_Transformations) (eXtensible Stylesheet Language Transformations). Le logiciel XML Editor est par ailleurs utilisé pour générer les différents supports de sortie.
 
 Le principe de cette chaîne est donc de générer plusieurs supports à partir d’un unique format pivot. Celle-ci pourrait être schématisée de cette manière (Schéma de D. Roux) :
 
-![enter image description here](https://lh3.googleusercontent.com/-NObAV_CmO7Q/WkOpZ_XN3RI/AAAAAAAAAMM/OD0RC1nhQl081YsFIstip-kEbm8gouchQCLcBGAs/s0/schema-chaine.png "schema-chaine.png")
+![schéma de la chaîne xml](https://lh3.googleusercontent.com/-NObAV_CmO7Q/WkOpZ_XN3RI/AAAAAAAAAMM/OD0RC1nhQl081YsFIstip-kEbm8gouchQCLcBGAs/s0/schema-chaine.png "schema-chaine.png")
 
 ### Limites et avantages de la chaîne 
 
-Grâce à cette chaîne XML, c’est la chaîne de production qui a été rationalisée, en permettant une intervention éditoriale unique pour la publication de plusieurs supports. Les contenus sont désormais balisés, consolidés, pérennes et interopérables. Cette solution permet également de garantir l’équilibre financier d’ENS Éditions puisqu’elle ne nécessite pas d’intervenants externes. La structure est totalement autonome, et propose un contenu en open source, tout en réalisant un gain financier indispensable à son bon fonctionnement. La diffusion de publications de qualité, standardisées et accessibles est ainsi garantie dans les meilleures conditions possibles dans la communauté des chercheurs. ENS Éditions remplit ainsi ses fonctions avec ses contraintes propres. Un second avantage de la chaîne est l’accessibilité, puisqu’ils produisent des contenus nativement structurés, les fichiers XML permettent de faire des fichiers Daisy. 
+Grâce à cette chaîne XML, c’est la chaîne de production qui a été rationalisée, en permettant une intervention éditoriale unique pour la publication de plusieurs supports. Les contenus sont désormais balisés, consolidés, pérennes et interopérables. Cette solution permet également de garantir l’équilibre financier d’ENS Éditions puisqu’elle ne nécessite pas d’intervenants externes. La structure est totalement **autonome**, et propose un contenu en open source, tout en réalisant un gain financier indispensable à son bon fonctionnement. La diffusion de publications de qualité, standardisées et accessibles est ainsi garantie dans les meilleures conditions possibles dans la communauté des chercheurs. ENS Éditions remplit ainsi ses fonctions avec ses contraintes propres. Un second avantage de la chaîne est l’accessibilité, puisqu’ils produisent des contenus nativement structurés, les fichiers XML permettent de faire des fichiers **Daisy**. 
 Quelques limites subsistent tout de même, notamment le fait que tous les livres ne puissent pas intégrer complètement la chaîne jusqu’à l’OEB (Open Edition Book), par exemple les *Précis de structure syllabique*. Une telle organisation demande également une expertise en amont de la fabrication de l’objet éditorial. Ce qui induit une nouvelle contrainte, la nécessité d’évaluer correctement le ratio temps / plus value éditoriale. Il ne faut pas rentrer dans un système qui ne serait pas rentable, une fois de plus il faut trouver un équilibre entre qualité et faisabilité. 
 
 
