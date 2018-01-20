@@ -1,11 +1,7 @@
 # Quel est l'intérêt et le fonctionnement d'une chaîne XML ?
 ## Découverte d'un workflow complexe et abouti avec ENS Éditions
 
-*Synthèse réalisée par Claire Dandieu et Solenne Monteil, [source disponible en ligne](https://github.com/cdandieu/Lecluse-XML*
-
-
-
-*).*
+*Synthèse réalisée par Claire Dandieu et Solenne Monteil, [source disponible en ligne](https://github.com/cdandieu/Lecluse-XML**).*
 
 *Résumé :* Sophie Lecluse, éditrice chez **ENS Editions**, est venue ce mercredi 13 décembre 2017 nous présenter la chaîne de publication mise en place au sein de sa structure éditoriale. Le thème de la séance était donc assez technique, en voici la restitution synthétique.
 
