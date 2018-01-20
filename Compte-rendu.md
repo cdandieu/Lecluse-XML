@@ -1,7 +1,7 @@
 # Quel est l'intérêt et le fonctionnement d'une chaîne XML ?
 ## Découverte d'un workflow complexe et abouti avec ENS Éditions
 
-*Synthèse réalisée par Claire Dandieu et Solenne Monteuil, [source disponible en ligne](https://github.com/cdandieu/Lecluse-XML*
+*Synthèse réalisée par Claire Dandieu et Solenne Monteil, [source disponible en ligne](https://github.com/cdandieu/Lecluse-XML*
 
 
 
